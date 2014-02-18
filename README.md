@@ -1,4 +1,0 @@
-EmailTemplates
-==============
-
-Kaplan Email Templates

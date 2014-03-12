@@ -142,15 +142,15 @@
                   <tr>
                     <td align="left" style="padding: 0 10% 30px;">
                     <span style="font: 16px/20px Arial, Helvetica, sans-serif; color:#626262;">
-                    Dear &lt;Customer First Name&gt;,<br/><br/>
+                    Dear {!Enrollment__c.Account__c},<br/><br/>
                     
                     <strong>As of Today, We Haven’t Been Able to Process Your Credit Card Payment.</strong><br/><br/>
                     
                     The credit/debit card payment you made recently for your Kaplan program has been declined. Since it’s important that for you to retain access to your resources and continue your studies, please contact us within the next 2 business days.<br/><br/>                              
                     
-                    Currently, your &lt;Product Name&gt; enrollment shows a balance due of &lt;Balance Due&gt;. (The minimum amount due is &lt;Minimum Payment&gt;.)<br/><br/>
+                    Currently, your {!Enrollment__c.Kaplan_Program__c} enrollment shows a balance due of  {!Enrollment__c.Balance_Due__c}.<br/><br/>
                     
-                    Please call our Enrollment and Experience Team at 1-800-KAP-TEST or 1-212-997-5883 during the hours of:<br/><br/>
+                    Please call our Enrollment and Experience Team at 1-800-KAP-TEST (1-800-527-8378) or 1-212-997-5883 during the hours of:<br/><br/>
 
                     9:00AM - 10:00PM EDT Monday - Thursday<br/>
                     9:00AM - 9:00PM EDT Friday<br/>

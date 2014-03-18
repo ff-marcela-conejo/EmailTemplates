@@ -102,7 +102,7 @@
       <!-- DISCLAIMER -->
       <tr>
         <td align="center" style="padding: 15px 0; font: 10px/13px Arial, Helvetica, sans-serif; color:#949494;">
-          <a name="__" style="color:#0071bc; text-decoration:none;" href="#" target="_blank" xt="SPBOOKMARK" >Kaplan Online Access</a><br>
+          <a name="__" style="color:#0071bc; text-decoration:none;" href="#" target="_blank" xt="SPBOOKMARK" >Kaplan Request Confirmation</a><br>
           Having trouble viewing this email? 
           <a target="_blank" href="#SPCLICKTOVIEW" xt="SPCLICKTOVIEW" style="color:#0071bc; text-decoration:none;" name="online">View in Web Browser</a>
         </td>
@@ -136,38 +136,42 @@
               <td bgcolor="#ffffff" width="100%" align="center">
                 <table border="0" width="100%" cellspacing="0" cellpading="0">
                   <tr>
-                    <td align="left" style="padding: 30px 10% 20px;"><span style="color:#212e84; font: 32px/36px Arial, Helvetica, sans-serif;">Online Syllabus Issue Resolution</span>
+                    <td align="left" style="padding: 30px 10% 20px;"><span style="color:#212e84; font: 32px/36px Arial, Helvetica, sans-serif;">
+                      A Copy Of Your Receipt Has Been Provided</span>
                     </td>
                   </tr>
                   <tr>
                     <td align="left" style="padding: 0 10% 30px;">
                     <span style="font: 16px/20px Arial, Helvetica, sans-serif; color:#626262;">
-                    Hello {!Account.Name},<br/><br/>
-                    <strong>We apologize for the inconvenience with your online syllabus. We recommend that you switch to a different web browser. </strong><br/><br/>
-                    If using a different browser doesn't work, there is a good chance that the blank page is caused by a program installed on your system called "Sendori." While Sendori is made to enhance the web navigation experience, it blocks many of our Kaplan materials. We recommend that you uninstall it using the following steps:<br/>
-                    <ol>
-                      <li>
-                        Click Start and choose Control Panel. Your Control Panel may be located within the "Settings" menu).
-                      </li>
-                      <li>
-                        In Control Panel double click on the "Programs and Features" icon(which may also be called "Add or Remove Programs", or appear as "Uninstall a Program- located in the Programs category).
-                      </li>
-                      <li>
-                        Here you can find all the programs and items which are installed in Windows.
-                      </li>
-                      <li>
-                        To remove Sendori, click once on the program then click on Change/Remove (or simply click "Uninstall") and follow the prompts.
-                      </li> 
-                    </ol>
-                    After Sendori is finished uninstalling, you should clear your browser’s Cookies and Cache as well as clear your browser’s history.<br/><br/>
-                    If you have any further questions, please contact our Enrollment and Experience Team at <a href="http://help.kaptest.com/" target="blank">help.kaptest.com</a> or by phone at 1-800-KAPTEST (1-800-527-8378) during the hours of:<br/><br/>
-                    9:00AM - 10:00PM EDT Monday - Thursday<br/>
-                    9:00AM - 9:00PM EDT Friday<br/>
-                    9:00AM - 5:45PM EDT Saturday - Sunday<br/><br/>
-                    You can count on Kaplan to continue to provide you with the resources, insights and advice you need to succeed.<br/><br/>
-                    Sincerely,<br/><br/>
-                    The Team at Kaplan
-                    </span>
+                       Hello {!Account.FirstName},<br/><br/>
+                      <strong>Attached you will find a copy of the receipt you requested.</strong><br/><br/>
+                      It includes:
+                      <ul>
+                        <li>
+                          Your Student ID.
+                        </li>
+                        <li>
+                          Your Enrollment ID.
+                        </li>
+                        <li>
+                          Your class code.
+                        </li>
+                        <li>
+                          The start and end dates of your program.
+                        </li>
+                        <li>
+                          The amount of your purchase.
+                        </li>
+                      </ul>
+                      Please take a moment to review the document, and save or print a copy for your records.<br/><br/>
+                      If you have any further questions, please contact our Enrollment and Experience Team at <a href="http://help.kaptest.com/" target="blank">help.kaptest.com</a> or by phone at 1-800-KAPTEST (1-800-527-8378) during the hours of:<br/><br/>
+                      9:00AM - 10:00PM EDT Monday - Thursday<br/>
+                      9:00AM - 9:00PM EDT Friday<br/>
+                      9:00AM - 5:45PM EDT Saturday - Sunday<br/><br/>
+                      You can count on Kaplan to continue to provide you with the resources, insights and advice you need to succeed.<br/><br/>
+                      Sincerely,<br/><br/>
+                      The Team at Kaplan
+                   </span>
                     </td>
                   </tr>
                 </table>

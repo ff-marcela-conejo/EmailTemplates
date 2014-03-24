@@ -102,7 +102,7 @@
       <!-- DISCLAIMER -->
       <tr>
         <td align="center" style="padding: 15px 0; font: 10px/13px Arial, Helvetica, sans-serif; color:#949494;">
-          <a name="__" style="color:#0071bc; text-decoration:none;" href="#" target="_blank" xt="SPBOOKMARK" >Course Resource Shipping Confirmation</a><br>
+          <a name="__" style="color:#0071bc; text-decoration:none;" href="#" target="_blank" xt="SPBOOKMARK" >Kaplan Resources</a><br>
           Having trouble viewing this email? 
           <a target="_blank" href="#SPCLICKTOVIEW" xt="SPCLICKTOVIEW" style="color:#0071bc; text-decoration:none;" name="online">View in Web Browser</a>
         </td>
